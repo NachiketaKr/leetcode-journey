@@ -10,7 +10,7 @@ C++ solutions to LeetCode problems, organized by topic.
 | 3 | 0 | 1 | 2 |
 <!-- PROGRESS:END -->
 
-## 📂 Solutions by Topic
+## Solutions by Topic
 
 <!-- TOPICS:START -->
 | Topic | Solved |
