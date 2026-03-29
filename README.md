@@ -1,8 +1,8 @@
-# 🧠 LeetCode Solutions
+# LeetCode Solutions
 
 C++ solutions to LeetCode problems, organized by topic.
 
-## 📊 Progress Tracker
+## Progress Tracker
 
 <!-- PROGRESS:START -->
 | Total | Easy | Medium | Hard |
@@ -18,7 +18,7 @@ C++ solutions to LeetCode problems, organized by topic.
 | Dynamic Programming | 2 |
 <!-- TOPICS:END -->
 
-## 📁 Structure
+## Structure
 
 ```
 leetcode/
@@ -35,14 +35,14 @@ leetcode/
 └── Math/
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Copy `template.cpp` to the relevant topic folder
 2. Rename it to `<number>_<problem_slug>.cpp` (e.g. `0001_two_sum.cpp`)
 3. Fill in the header (Difficulty and Topic fields drive the tracker)
 4. Commit — the README updates automatically via the pre-commit hook
 
-## 📝 Solution Template
+## Solution Template
 
 Each file follows this header format:
 
@@ -56,7 +56,5 @@ Each file follows this header format:
  * Time Complexity:  O(n)
  * Space Complexity: O(n)
  *
- * Approach:
- * Use a hash map to store seen values and check for complement in one pass.
  */
 ```
