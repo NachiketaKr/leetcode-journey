@@ -7,7 +7,7 @@ C++ solutions to LeetCode problems, organized by topic.
 <!-- PROGRESS:START -->
 | Total | Easy | Medium | Hard |
 |-------|------|--------|------|
-| 5 | 0 | 3 | 2 |
+| 6 | 0 | 4 | 2 |
 <!-- PROGRESS:END -->
 
 ## 📂 Solutions by Topic
@@ -15,7 +15,7 @@ C++ solutions to LeetCode problems, organized by topic.
 <!-- TOPICS:START -->
 | Topic | Solved |
 |-------|--------|
-| Dynamic Programming | 5 |
+| Dynamic Programming | 6 |
 <!-- TOPICS:END -->
 
 ## Structure
