@@ -7,15 +7,15 @@ C++ solutions to LeetCode problems, organized by topic.
 <!-- PROGRESS:START -->
 | Total | Easy | Medium | Hard |
 |-------|------|--------|------|
-| 4 | 0 | 2 | 2 |
+| 5 | 0 | 3 | 2 |
 <!-- PROGRESS:END -->
 
-## Solutions by Topic
+## 📂 Solutions by Topic
 
 <!-- TOPICS:START -->
 | Topic | Solved |
 |-------|--------|
-| Dynamic Programming | 4 |
+| Dynamic Programming | 5 |
 <!-- TOPICS:END -->
 
 ## Structure
